@@ -14,11 +14,15 @@
         android:theme="@style/Theme.Football_fixture_app">
         <activity android:name=".MainActivity">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
+                <action android:name="android.intent.action.MAIN"
+                    android:label="Premiere League"
+                    />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".FixtureActivity"
+            android:label="Fixture"
+            ></activity>
     </application>
 
 </manifest>

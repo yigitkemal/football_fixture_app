@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@+id/teams_fixture_logo"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:padding="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_launcher_background" />
+
+    <TextView
+        android:id="@+id/teams_fixture_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:padding="2dp"
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#4d4d4d"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/teams_fixture_logo"
+        app:layout_constraintStart_toEndOf="@+id/teams_fixture_logo"
+        app:layout_constraintTop_toTopOf="@+id/teams_fixture_logo" />
+
+    <ImageView
+        android:id="@+id/teams_fixture_logo2"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:padding="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_launcher_background" />
+
+    <TextView
+        android:id="@+id/teams_fixture_name2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#4d4d4d"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:layout_marginEnd="8dp"
+        android:padding="2dp"
+        android:text="Medium Text"
+        app:layout_constraintBottom_toBottomOf="@+id/teams_fixture_logo2"
+        app:layout_constraintEnd_toStartOf="@+id/teams_fixture_logo2"
+        app:layout_constraintTop_toTopOf="@+id/teams_fixture_logo2" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-"
+        app:layout_constraintBottom_toBottomOf="@+id/teams_fixture_name2"
+        app:layout_constraintEnd_toEndOf="@+id/teams_fixture_logo2"
+        app:layout_constraintStart_toStartOf="@+id/teams_fixture_logo"
+        app:layout_constraintTop_toTopOf="@+id/teams_fixture_name" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

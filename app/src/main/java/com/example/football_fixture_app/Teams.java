@@ -3,7 +3,9 @@ package com.example.football_fixture_app;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-public class Teams {
+import java.io.Serializable;
+
+public class Teams implements Serializable {
 
     @SerializedName("id")
     @Expose
