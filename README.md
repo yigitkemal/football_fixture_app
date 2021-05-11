@@ -6,6 +6,7 @@
 * [General info](#general-info)
 * [How to Use](#how_to_use)
 * [Technologies](#technologies)
+* [Additional Info](#additional_info)
 * [Authors](#Authors)
 
 ## General Info
@@ -22,6 +23,10 @@ I developed an android application with Java and I used the data extraction and 
 *Java (In this project, android targetVersionsdk: 30 is used as minVersionSdk: 23.) 
 *Retrofit
 *Picasso
+*PHP
+
+## Additional Info
+For this project, a mysql database was created on thetreemedia.com host. Then php api was written and the project was able to extract data from here.
 
 ## Authors
 * **Yigit Kemal Agac** - [yigitkemal](https://github.com/yigitkemal)
@@ -35,7 +40,7 @@ I developed an android application with Java and I used the data extraction and 
 
 * Thanks to the bottom navigation bar at the bottom of the screen, you can easily view the matches in the two halves of the football league.
 
-<img src="https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142825_football_fixture_app.jpg" width="200"/><img src="https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142914_football_fixture_app.jpg" width="200"/><img src="https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142945_football_fixture_app.jpg" width="200"/><img src="https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142957_football_fixture_app.jpg" width="200"/>
+<img src="https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142825_football_fixture_app.jpg" width="200"/> <img src="https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142914_football_fixture_app.jpg" width="200"/> <img src="https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142945_football_fixture_app.jpg" width="200"/> <img src="https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142957_football_fixture_app.jpg" width="200"/>
 
 
 
