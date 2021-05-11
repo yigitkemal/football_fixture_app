@@ -27,14 +27,14 @@ I developed an android application with Java and I used the data extraction and 
 
 
 You can view the teams from the database. You can switch between dark mode and light mode with one click.
-![light_mode_teams_list](https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142825_football_fixture_app.jpg) { width: 200px; }
-![dark_mode_teams_list](https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142832_football_fixture_app.jpg) { width: 200px; }
+![light_mode_teams_list](https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142825_football_fixture_app.jpg = 200x) 
+![dark_mode_teams_list](https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142832_football_fixture_app.jpg)
 
 Thanks to the bottom navigation bar at the bottom of the screen, you can easily view the matches in the two halves of the football league.
-![light_mode_fixture_first_period](https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142825_football_fixture_app.jpg) { width: 200px; }
-![light_mode_fixture_second_period](https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142914_football_fixture_app.jpg) { width: 200px; }
-![dark_mode_fixture_first_period](https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142945_football_fixture_app.jpg) { width: 200px; }
-![dark_mode_fixture_second_period](https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142957_football_fixture_app.jpg) { width: 200px; }
+![light_mode_fixture_first_period](https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142825_football_fixture_app.jpg)
+![light_mode_fixture_second_period](https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142914_football_fixture_app.jpg)
+![dark_mode_fixture_first_period](https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142945_football_fixture_app.jpg)
+![dark_mode_fixture_second_period](https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142957_football_fixture_app.jpg)
 
 
 
