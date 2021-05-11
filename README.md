@@ -27,6 +27,7 @@ I developed an android application with Java and I used the data extraction and 
 
 
 You can view the teams from the database. You can switch between dark mode and light mode with one click.
+<img src="https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142825_football_fixture_app.jpg" width="200"/>
 ![light_mode_teams_list](https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142825_football_fixture_app.jpg = 200x) 
 ![dark_mode_teams_list](https://thetreemedia.com/wp-content/uploads/2021/05/Screenshot_20210511-142832_football_fixture_app.jpg)
 
